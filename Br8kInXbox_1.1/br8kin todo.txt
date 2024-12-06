@@ -1,0 +1,13 @@
+PC VERSION
+
+- replace fileIO for pc
+- add second high score panel for global leaderboards
+- actually use global leaderboards
+
+
+
+
+XBOX VERSION
+
+- fix grammar error on tip #1
+

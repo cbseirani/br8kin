@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Br8kIn'", "Br8kIn'\Br8kIn'\Br8kIn'.csproj", "{5781FB9F-A85B-4A95-8285-F6F1DC70B2DB}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "Br8kIn'Content", "Br8kIn'\Br8kIn'Content\Br8kIn'Content.contentproj", "{411D94F9-D3BB-416A-AF5E-D0DE2EFC8E06}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Xbox 360 = Debug|Xbox 360
+		Release|Xbox 360 = Release|Xbox 360
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5781FB9F-A85B-4A95-8285-F6F1DC70B2DB}.Debug|Xbox 360.ActiveCfg = Debug|Xbox 360
+		{5781FB9F-A85B-4A95-8285-F6F1DC70B2DB}.Debug|Xbox 360.Build.0 = Debug|Xbox 360
+		{5781FB9F-A85B-4A95-8285-F6F1DC70B2DB}.Debug|Xbox 360.Deploy.0 = Debug|Xbox 360
+		{5781FB9F-A85B-4A95-8285-F6F1DC70B2DB}.Release|Xbox 360.ActiveCfg = Release|Xbox 360
+		{5781FB9F-A85B-4A95-8285-F6F1DC70B2DB}.Release|Xbox 360.Build.0 = Release|Xbox 360
+		{5781FB9F-A85B-4A95-8285-F6F1DC70B2DB}.Release|Xbox 360.Deploy.0 = Release|Xbox 360
+		{411D94F9-D3BB-416A-AF5E-D0DE2EFC8E06}.Debug|Xbox 360.ActiveCfg = Debug|Xbox 360
+		{411D94F9-D3BB-416A-AF5E-D0DE2EFC8E06}.Release|Xbox 360.ActiveCfg = Release|Xbox 360
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,36 @@
+plates
+
+yellow - 100x106
+purple - 75x80
+green  - 125x133
+
+---------------------
+
+pots
+
+yellow - 100x156
+green  - 75x117
+blue   - 50x78
+red    - 85x132
+
+
+---------------------
+
+clouds
+
+cloud1 - 240x70
+cloud2 - 238x69
+cloud3 - 241x65
+cloud4 - 250x78
+
+scloud1 - 100x57
+scloud2 - 100x58
+scloud3 - 100x73
+scloud4 - 100x49
+
+---------------------
+
+planets
+
+aliensgoin
+
